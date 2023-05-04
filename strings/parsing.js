@@ -9,4 +9,3 @@ function parseAndDisplayName(fullName) {
 }
 
 parseAndDisplayName(name);
-
